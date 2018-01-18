@@ -5,7 +5,7 @@
 <head>
 
 <!-- 스타일 시트  경로설정 -->
-<link rel = "stylesheet" href="css/bootstrap.css">
+<link rel = "stylesheet" href="bootstrap.css">
 
 <title>Web Chart</title>
 </head>
@@ -26,8 +26,7 @@
 		<!--네비게이션 메뉴 차트선택-->
 		<div class="collapse navbar-collapse" id="navbar-collapse">
 			<ul class="nav navbar-nav">
-				<li><a href="dataAction.jsp">BAR</a>
-				</li>
+				<li><a href="dataAction.jsp">BAR</a></li>
 				<li><a href="dataAction.jsp">LINE</a></li>
 				<li><a href="dataAction.jsp">AREA</a></li>
 				<li><a href="dataAction.jsp">DONUT</a></li>
